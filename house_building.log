@@ -1,0 +1,27 @@
+2024-05-28 13:02:25,116 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_B', 'MyCompanyAgent_F'] have accepted construction item structural design at price: 5000
+2024-05-28 13:02:25,120 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E'] have accepted construction item structure building at price: 10000
+2024-05-28 13:02:25,121 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_B', 'MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E'] have accepted construction item electrics and plumbing at price: 4000
+2024-05-28 13:02:25,123 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_F'] have accepted construction item interior design at price: 5000
+2024-05-28 13:02:25,124 - environment - INFO - [NOTIFICATION] The Auction Phase has finished.
+2024-05-28 13:02:25,126 - environment - INFO - [NOTIFICATION] Construction item structural design assigned to MyCompanyAgent_B!
+2024-05-28 13:02:25,130 - environment - INFO - [NOTIFICATION] Construction item structure building assigned to MyCompanyAgent_A!
+2024-05-28 13:02:25,134 - environment - INFO - [NOTIFICATION] Construction item electrics and plumbing assigned to MyCompanyAgent_A!
+2024-05-28 13:02:25,136 - environment - INFO - [NOTIFICATION] Construction item interior design assigned to MyCompanyAgent_F!
+2024-05-28 23:03:14,847 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_B', 'MyCompanyAgent_F'] have accepted construction item structural design at price: 5000.0
+2024-05-28 23:03:33,036 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_B', 'MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E', 'MyCompanyAgent_F'] have accepted construction item structure building at price: 10000.0
+2024-05-28 23:03:50,512 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_B', 'MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E'] have accepted construction item electrics and plumbing at price: 4000.0
+2024-05-28 23:04:02,120 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E', 'MyCompanyAgent_F'] have accepted construction item interior design at price: 5000.0
+2024-05-28 23:04:02,120 - environment - INFO - [NOTIFICATION] The Auction Phase has finished.
+2024-05-28 23:04:19,603 - environment - INFO - [NOTIFICATION] Construction item structural design assigned to MyCompanyAgent_A!
+2024-05-28 23:04:57,633 - environment - INFO - [NOTIFICATION] Construction item structure building assigned to MyCompanyAgent_E!
+2024-05-28 23:05:30,000 - environment - INFO - [NOTIFICATION] Construction item electrics and plumbing assigned to MyCompanyAgent_C!
+2024-05-28 23:05:51,980 - environment - INFO - [NOTIFICATION] Construction item interior design assigned to MyCompanyAgent_C!
+2024-05-28 23:28:55,360 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_B', 'MyCompanyAgent_F'] have accepted construction item structural design at price: 5000.0
+2024-05-28 23:29:12,839 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_B', 'MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E', 'MyCompanyAgent_F'] have accepted construction item structure building at price: 10000.0
+2024-05-28 23:29:29,170 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_A', 'MyCompanyAgent_B', 'MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E'] have accepted construction item electrics and plumbing at price: 4000.0
+2024-05-28 23:29:41,051 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_C', 'MyCompanyAgent_D', 'MyCompanyAgent_E', 'MyCompanyAgent_F'] have accepted construction item interior design at price: 5000.0
+2024-05-28 23:29:41,052 - environment - INFO - [NOTIFICATION] The Auction Phase has finished.
+2024-05-28 23:29:56,505 - environment - INFO - [NOTIFICATION] Construction item structural design assigned to MyCompanyAgent_B!
+2024-05-28 23:30:37,931 - environment - INFO - [NOTIFICATION] Construction item structure building assigned to MyCompanyAgent_C!
+2024-05-28 23:31:08,653 - environment - INFO - [NOTIFICATION] Construction item electrics and plumbing assigned to MyCompanyAgent_E!
+2024-05-28 23:31:34,950 - environment - INFO - [NOTIFICATION] Construction item interior design assigned to MyCompanyAgent_C!
